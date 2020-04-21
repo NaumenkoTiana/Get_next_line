@@ -2,7 +2,7 @@
 
 To write a function
 that will allow you to read a line ending with a newline character from a file descriptor.
-We can use our library - [libft] (https://github.com/NaumenkoTiana/libft)
+We can use our library - [libft](https://github.com/NaumenkoTiana/libft)
 
 No leaks, the BUFF SIZE can be 1 or 100, it works correctly. The program allows to read several files.
 
